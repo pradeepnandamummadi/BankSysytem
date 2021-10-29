@@ -1,0 +1,10 @@
+com\example\BankSysytem\ServletInitializer.class
+com\example\BankSysytem\controller\AcountController.class
+com\example\BankSysytem\entity\Acount.class
+com\example\BankSysytem\entity\Statement.class
+com\example\BankSysytem\entity\AcountTransfer.class
+com\example\BankSysytem\repository\StatementDao.class
+com\example\BankSysytem\BankSysytemApplication.class
+com\example\BankSysytem\repository\AcountDao.class
+com\example\BankSysytem\service\BankSystemService.class
+com\example\BankSysytem\entity\MonthlyStatement.class
